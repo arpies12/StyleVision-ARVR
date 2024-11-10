@@ -1,0 +1,47 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1731172981296293, "dur":1099, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731172981297396, "dur":3478, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731172981300977, "dur":142, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1731172981301120, "dur":86, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731172981329989, "dur":102, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/arpitagautam/Documents/StyleVision/Il2CppOutputProject/IL2CPP/libil2cpp/vm/MarshalAlloc.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1731172981301210, "dur":29996, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731172981331206, "dur":74, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731172981331280, "dur":159, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731172981331457, "dur":1381, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731172981332847, "dur":198, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731172981333046, "dur":70, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731172981333161, "dur":1679, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1731172981301142, "dur":30145, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731172981331288, "dur":140, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731172981301145, "dur":30147, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731172981331345, "dur":954, "ph":"X", "name": "File",  "args": { "detail":"/Users/arpitagautam/Documents/Apps/2022.3.37f1/Unity.app/Contents/il2cpp/build/deploy/WindowsBase.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731172981331294, "dur":1531, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731172981301149, "dur":30152, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731172981331578, "dur":581, "ph":"X", "name": "File",  "args": { "detail":"/Users/arpitagautam/Documents/Apps/2022.3.37f1/Unity.app/Contents/il2cpp/build/deploy/Unity.Linker.Api.Output.xml" }}
+,{ "pid":12345, "tid":3, "ts":1731172981331304, "dur":1532, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731172981301173, "dur":30136, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731172981331311, "dur":905, "ph":"X", "name": "File",  "args": { "detail":"/Users/arpitagautam/Documents/Apps/2022.3.37f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731172981331311, "dur":1721, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731172981301178, "dur":30140, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731172981331320, "dur":901, "ph":"X", "name": "File",  "args": { "detail":"/Users/arpitagautam/Documents/Apps/2022.3.37f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.dll" }}
+,{ "pid":12345, "tid":5, "ts":1731172981331320, "dur":1787, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731172981301183, "dur":30143, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731172981331581, "dur":658, "ph":"X", "name": "File",  "args": { "detail":"/Users/arpitagautam/Documents/Apps/2022.3.37f1/Unity.app/Contents/il2cpp/build/deploy/System.Xml.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1731172981331328, "dur":1769, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731172981301188, "dur":30142, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731172981331331, "dur":828, "ph":"X", "name": "File",  "args": { "detail":"/Users/arpitagautam/Documents/Apps/2022.3.37f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Channels.dll" }}
+,{ "pid":12345, "tid":7, "ts":1731172981331331, "dur":1464, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731172981301192, "dur":30142, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731172981331335, "dur":943, "ph":"X", "name": "File",  "args": { "detail":"/Users/arpitagautam/Documents/Apps/2022.3.37f1/Unity.app/Contents/il2cpp/build/deploy/System.Security.Claims.dll" }}
+,{ "pid":12345, "tid":8, "ts":1731172981331335, "dur":1770, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1731172981301198, "dur":30139, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1731172981331339, "dur":777, "ph":"X", "name": "File",  "args": { "detail":"/Users/arpitagautam/Documents/Apps/2022.3.37f1/Unity.app/Contents/il2cpp/build/deploy/System.Reflection.TypeExtensions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1731172981331339, "dur":1677, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1731172981301203, "dur":30138, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1731172981331343, "dur":893, "ph":"X", "name": "File",  "args": { "detail":"/Users/arpitagautam/Documents/Apps/2022.3.37f1/Unity.app/Contents/il2cpp/build/deploy/System.Net.WebHeaderCollection.dll" }}
+,{ "pid":12345, "tid":10, "ts":1731172981331343, "dur":1725, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1731172981301208, "dur":30137, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1731172981331350, "dur":920, "ph":"X", "name": "File",  "args": { "detail":"/Users/arpitagautam/Documents/Apps/2022.3.37f1/Unity.app/Contents/il2cpp/build/deploy/System.IO.UnmanagedMemoryStream.dll" }}
+,{ "pid":12345, "tid":11, "ts":1731172981331346, "dur":1784, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731172981336489, "dur":63, "ph":"X", "name": "ProfilerWriteOutput" }
+,
